@@ -1,43 +1,43 @@
 # 🎓 OpenClaw Skills Library
 
-A curated collection of **1365** agent skills.
+A curated collection of **2331** agent skills.
 
 ## 🌍 Multi-Language | 多语言 | बहुभाषी | Multilingüe | Multilingue | متعدد اللغات | বহুভাষিক | Многоязычный | Multilíngue | 多言語 | کثیر اللسانیت
 
-## 📚 Available Skills | 可用技能 (1365 total)
+## 📚 Available Skills | 可用技能 (2331 total)
 
 | Skill ID | English Description |
 |----------|---------------------|
 | legal-advisor | ---... |
 | parma-automation | ---... |
+| elon-musk | ---... |
+| azure-storage-file-datalake-py | ---... |
+| api-documentation-generator | ---... |
 | zoho-inventory-automation | ---... |
+| seo-forensic-incident-response | ---... |
 | instacart-automation | ---... |
+| offer-k-dense-web | ---... |
+| ai-md | ---... |
 | azure-eventhub-rust | ---... |
 | recruitee-automation | ---... |
 | changelog-generator | ---... |
+| azure-mgmt-apimanagement-py | ---... |
+| research-lookup | ---... |
+| networkx | ---... |
 | test-app-automation | ---... |
+| agentic-actions-auditor | ---... |
+| leiloeiro-juridico | ---... |
 | clearout-automation | ---... |
 | productlane-automation | ---... |
 | esignatures-io-automation | ---... |
 | instagram-automation | ---... |
+| frontend-ui-dark-ts | ---... |
+| security-bluebook-builder | ---... |
 | refiner-automation | ---... |
+| progressive-web-app | ---... |
+| pathml | ---... |
 | conductor-manage | ---... |
 | trello-automation | ---... |
-| mural-automation | ---... |
-| top-web-vulnerabilities | ---... |
-| castingwords-automation | ---... |
-| agentql-automation | ---... |
-| skyfire-automation | ---... |
-| office-productivity | ---... |
-| hig-technologies | ---... |
-| fal-generate | ---... |
-| competitive-ads-extractor | ---... |
-| prisma-automation | ---... |
-| automate-whatsapp | ---... |
-| tailwind-patterns | ---... |
-| byteforms-automation | ---... |
-| fluxguard-automation | ---... |
-| similarweb-digitalrank-api-automation | ---... |
 
 ## 🚀 Quick Start
 
